@@ -1,11 +1,10 @@
-## test
+# this is a test repo 
 
-### test
+## goal 1 
+to learn commit, push and pull 
 
-```python 
-this is a test
-```
+## goal 2 
+to learn branching and mergin
 
-- 1
-- 2
-- 3
+## goal 3 
+to actully collaborate with temates
